@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    background-attachment: fixed;
+}
+
+button {
+    font-family: 'press start 2P';
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80px;
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+}
